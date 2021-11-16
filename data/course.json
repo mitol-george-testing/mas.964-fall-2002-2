@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c91ce378-adf8-ef81-4750-22d198f289c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Common Sense Reasoning for Interactive Applications",
+  "course_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nCourse requirements will consist of critiques of class readings (about 2 papers/week), and a final project (paper or computer implementation project). Grades will be based primarily on the projects, as well as a small component for class and online participation\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.964",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
